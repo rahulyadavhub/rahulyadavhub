@@ -1,21 +1,21 @@
-Rahul Yadav
+# Rahul Yadav
 
 Java Developer | Learning Data Structures and Algorithms
 
-About me 
+## About me 
 I am currently learning Java and Data Structures & Algorithms to become a professional software developer.
 
-Skills
+## Skills
 - Java
 - Data Structures
 - Algorithms
 - Git
 - Github
 
-*Current Projects 
+## Current Projects 
 -Java DSA Journey
 
-Daily Progress
+## Daily Progress
 
 Day 1
 - pattern printing
