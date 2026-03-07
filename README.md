@@ -11,6 +11,7 @@ I am currently learning Java and Data Structures & Algorithms to become a profes
 - Algorithms
 - Git
 - Github
+- VS code
 
 ## Current Projects 
 -Java DSA Journey
