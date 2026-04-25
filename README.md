@@ -1,149 +1,94 @@
-# ☕ Java DSA Journey
+# Rahul Yadav (Nick) 👋
 
-> From beginner to FAANG Germany 🇩🇪 — one problem at a time.
-
-![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Goal](https://img.shields.io/badge/Goal-FAANG%20Germany-blue?style=flat-square)
-![Curriculum](https://img.shields.io/badge/Curriculum-Kunal%20Kushwaha-purple?style=flat-square)
+Self-taught developer from Mumbai.
+Learning Java + DSA, building real products, and heading to Estonia for CS.
+Documenting everything publicly → [@nickdebug](https://instagram.com/nickdebug)
 
 ---
 
-## 🎯 Goal
-Land a Software Engineering role at a FAANG company in Germany (Amazon Berlin / Google Munich) by mastering Java and Data Structures & Algorithms from scratch.
+## What I'm building right now
 
-**Curriculum:** [Kunal Kushwaha's Java + DSA Bootcamp](https://www.youtube.com/@KunalKushwaha)
+**MaalSaathi** 🚛  
+WhatsApp-first fleet management bot for Indian truck fleet owners.  
+Stack: Node.js · Supabase · Railway · AiSensy BSP · Claude API  
+Not a tutorial project. Built for a real problem.
 
----
-
-## 📁 Repository Structure
-
-```
-java-dsa-journey/
-│
-├── basics/               # Java fundamentals
-│   ├── HelloWorld.java
-│   ├── Variables.java
-│   ├── Loops.java
-│   └── Functions.java
-│
-├── arrays/               # Array problems
-│   ├── LargestElement.java
-│   ├── ReverseArray.java
-│   └── SecondLargest.java
-│
-├── strings/              # String problems
-│   ├── ReverseString.java
-│   └── PalindromeCheck.java
-│
-├── sorting/              # Sorting algorithms
-│   ├── BubbleSort.java
-│   ├── MergeSort.java
-│   └── QuickSort.java
-│
-├── recursion/            # Recursion & Backtracking
-│   ├── Fibonacci.java
-│   └── Subsets.java
-│
-├── linked-list/          # Linked List problems
-├── stacks-queues/        # Stack & Queue problems
-├── trees/                # Tree problems
-├── graphs/               # Graph problems
-├── dynamic-programming/  # DP problems
-│
-└── leetcode/             # LeetCode solutions
-    ├── easy/
-    ├── medium/
-    └── hard/
-```
+**Java DSA Journey**  
+Learning from scratch via Kunal Kushwaha's curriculum.  
+Solving 2-3 problems daily. Every solution committed here.
 
 ---
 
-## 📅 Progress Log
+## DSA Progress Log
 
-| Day | Topics Covered | Problems Solved |
-|-----|---------------|-----------------|
-| Day 1 | Java basics, program structure, printing output, variables | HelloWorld, basic patterns |
-| Day 2 | Arrays, for loops, if conditions, finding largest number, pattern printing | LargestInArray, Triangle pattern |
-| Day 3 | _(coming soon)_ | |
+| Day | Topics | What I solved |
+|-----|--------|---------------|
+| Day 1 | Java basics, variables, program structure | HelloWorld, basic patterns |
+| Day 2 | Arrays, loops, conditions | LargestInArray, Triangle pattern |
+| Day 3+ | ongoing... | |
+
+**Started:** March 2026  
+**Problems solved:** _(update this number daily)_  
+**Current topic:** Arrays & Strings  
+**Daily target:** 2-3 problems  
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
-- [x] **Phase 1 — Java Foundations** *(in progress)*
-  - [x] Program structure & syntax
-  - [x] Variables & data types
+- [x] **Phase 1 — Java Foundations**
+  - [x] Syntax, variables, data types
   - [x] Arrays & loops
   - [x] Pattern programming
   - [ ] Strings
-  - [ ] Object-Oriented Programming
+  - [ ] OOP
+
 - [ ] **Phase 2 — Core DSA**
-  - [ ] Time & Space Complexity
   - [ ] Recursion & Backtracking
   - [ ] Sorting algorithms
   - [ ] Linked Lists
   - [ ] Stacks & Queues
   - [ ] Binary Search
+
 - [ ] **Phase 3 — Advanced DSA**
   - [ ] Trees & Heaps
   - [ ] Graphs
   - [ ] Dynamic Programming
-  - [ ] Tries
-- [ ] **Phase 4 — FAANG Prep**
+
+- [ ] **Phase 4 — Interview Prep**
   - [ ] NeetCode 150
   - [ ] System Design basics
   - [ ] Mock interviews
 
 ---
 
-## 🧠 Problem Solving Template
-
-Every problem I solve follows this structure:
+## How I approach every problem
 
 ```java
 /*
- * Problem: [Problem Name]
- * Source: [LeetCode / Kunal Bootcamp / etc.]
+ * Problem: [Name]
+ * Source: [LeetCode / Kunal Bootcamp]
  * Difficulty: [Easy / Medium / Hard]
  *
  * Approach:
- * - [Explain your logic in 1-2 lines]
+ * - [Logic in plain English, 1-2 lines]
  *
  * Time Complexity: O(?)
  * Space Complexity: O(?)
  */
-public class ProblemName {
-    public static void main(String[] args) {
-        // Test cases
-    }
-
-    static returnType methodName(params) {
-        // solution
-    }
-}
 ```
 
 ---
 
-## 📚 Resources
+## The plan
 
-| Resource | Link | Purpose |
-|----------|------|---------|
-| Kunal Kushwaha Bootcamp | YouTube | Primary curriculum |
-| NeetCode 150 | neetcode.io | Must-solve LeetCode list |
-| LeetCode | leetcode.com | Daily practice |
-| Striver's SDE Sheet | takeuforward.org | 180 interview problems |
+Mumbai → Estonia (TalTech, CS) → Europe  
+Building in public the whole way.
 
 ---
 
-## 📊 Stats
+## Find me
 
-- **Started:** March 2026
-- **Problems Solved:** 0 (growing daily)
-- **Current Topic:** Arrays & Basics
-- **Daily Goal:** 2–3 problems/day
-
----
-
-*"Consistency over intensity. Show up every day."* 💪
+[Instagram @nickdebug](https://instagram.com/nickdebug) ·
+[LinkedIn](https://linkedin.com/in/rahulyadav-profile) ·
+[LeetCode](https://leetcode.com/u/rahulyadavhub)
