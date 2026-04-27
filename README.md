@@ -2,7 +2,7 @@
 
 Self-taught developer from Mumbai.
 Learning Java + DSA, building real products, and heading to Estonia for CS.
-Documenting everything publicly → [rxldev](https://instagram.com/rxldev)
+Documenting everything publicly → [@rxldev](https://instagram.com/rxldev)
 
 ---
 
