@@ -2,7 +2,7 @@
 
 Self-taught developer from Mumbai.
 Learning Java + DSA, building real products, and heading to Estonia for CS.
-Documenting everything publicly → [@nickdebug](https://instagram.com/rxldev)
+Documenting everything publicly → [rxldev](https://instagram.com/rxldev)
 
 ---
 
@@ -89,6 +89,6 @@ Building in public the whole way.
 
 ## Find me
 
-[Instagram @nickdebug](https://instagram.com/rxldev) ·
+[@rxldev](https://instagram.com/rxldev) ·
 [LinkedIn](https://linkedin.com/in/rahulyadav-profile) ·
 [LeetCode](https://leetcode.com/u/rahulyadavhub)
