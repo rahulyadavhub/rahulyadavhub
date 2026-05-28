@@ -1,23 +1,32 @@
-# Rahul Yadav (Nick) 👋
+# Rahul Yadav  👋
 
 Self-taught developer from Mumbai.
-Learning Java + DSA, building real products, and heading 
-to Germany for IT Ausbildung 2027.
-Documenting everything publicly → [@nickdebug](https://instagram.com/rahuacc)
+Learning Java + DSA, building real products, heading to
+Germany for IT Ausbildung 2027.
+Documenting everything → [@rahuacc](https://instagram.com/rahuacc)
 
 ---
 
-## What I'm building right now
+## What I'm building
 
 **MaalSaathi** 🚛
-WhatsApp-first fleet management bot for Indian truck fleet owners.
+WhatsApp-first fleet management bot for Indian truck owners.
 Stack: Node.js · Supabase · Railway · AiSensy BSP · Claude API
-Status: LIVE — 2 active users in production.
-Not a tutorial project. Built for a real problem.
+Status: 🟢 LIVE — 2 active users in production.
+
+**AutoX** 🤖
+Fully local autonomous AI engineering platform.
+Stack: Python · Flask · Ollama · ChromaDB · SQLite
+Status: 🔄 Active Development — 16 tasks run, 60% success rate.
+
+**Kirana Supplier CRM**
+Supplier & payment management for small retailers.
+Stack: Python · Flask · SQLite · Vanilla JS
+Status: ✅ Demo Complete
 
 **Java DSA Journey**
-Learning from scratch via Kunal Kushwaha's curriculum.
-42+ problems solved. Every solution committed here.
+Learning Java + DSA from scratch — Kunal Kushwaha curriculum.
+42+ problems solved. Every solution committed.
 
 ---
 
@@ -50,7 +59,7 @@ Learning from scratch via Kunal Kushwaha's curriculum.
   - [x] Linked Lists
   - [x] Stacks & Queues
   - [x] Binary Search
-  
+
 - [ ] **Phase 3 — Advanced DSA**
   - [ ] Trees & Heaps
   - [ ] Graphs
@@ -60,6 +69,17 @@ Learning from scratch via Kunal Kushwaha's curriculum.
   - [ ] NeetCode 150
   - [ ] System Design basics
   - [ ] Mock interviews
+
+---
+
+## Projects
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| [MaalSaathi](https://github.com/rahulyadavhub/MaalSaathi) | Node.js, Claude API | 🟢 Live |
+| [AutoX](https://github.com/rahulyadavhub/AutoX) | Python, Ollama | 🔄 Active |
+| [Kirana CRM](https://github.com/rahulyadavhub/kirana-supplier-crm-demo) | Python, Flask | ✅ Demo |
+| [Java DSA](https://github.com/rahulyadavhub/java-dsa-journey-) | Java | 🔄 Active |
 
 ---
 
@@ -81,19 +101,10 @@ Learning from scratch via Kunal Kushwaha's curriculum.
 
 ---
 
-## Projects
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| [MaalSaathi](https://github.com/rahulyadavhub/MaalSaathi) | Node.js, Supabase, Claude API | 🟢 Live |
-| [Java DSA Journey](https://github.com/rahulyadavhub/java-dsa-journey-) | Java | 🔄 Active |
-
----
-
 ## The Plan
 
-Mumbai → Germany IT Ausbildung 2027 → Online CS Degree → 
-Master's AI/ML → Big Tech
+Mumbai → Germany IT Ausbildung 2027 →
+Online CS Degree → Master's AI/ML → Big Tech
 
 ---
 
