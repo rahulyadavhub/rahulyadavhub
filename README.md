@@ -3,7 +3,7 @@
 Self-taught developer from Mumbai.
 Learning Java + DSA, building real products, and heading 
 to Germany for IT Ausbildung 2027.
-Documenting everything publicly → [@nickdebug](https://instagram.com/nickdebug)
+Documenting everything publicly → [@nickdebug](https://instagram.com/rahuacc)
 
 ---
 
@@ -99,6 +99,6 @@ Master's AI/ML → Big Tech
 
 ## Find me
 
-[Instagram @nickdebug](https://instagram.com/nickdebug) ·
+[Instagram @rahuacc](https://instagram.com/rahuacc) ·
 [LinkedIn](https://linkedin.com/in/rahulyadav-profile) ·
 [LeetCode](https://leetcode.com/u/rahulyadavhub)
