@@ -1,36 +1,37 @@
-# Rahul Yadav 👋
+# Rahul Yadav (Nick) 👋
 
 Self-taught developer from Mumbai.
-Learning Java + DSA, building real products, and heading to Estonia for CS.
-Documenting everything publicly → [@rxldev](https://instagram.com/rxldev)
+Learning Java + DSA, building real products, and heading 
+to Germany for IT Ausbildung 2027.
+Documenting everything publicly → [@nickdebug](https://instagram.com/nickdebug)
 
 ---
 
 ## What I'm building right now
 
-**MaalSaathi** 🚛  
-WhatsApp-first fleet management bot for Indian truck fleet owners.  
-Stack: Node.js · Supabase · Railway · AiSensy BSP · Claude API  
+**MaalSaathi** 🚛
+WhatsApp-first fleet management bot for Indian truck fleet owners.
+Stack: Node.js · Supabase · Railway · AiSensy BSP · Claude API
+Status: LIVE — 2 active users in production.
 Not a tutorial project. Built for a real problem.
 
-**Java DSA Journey**  
-Learning from scratch via Kunal Kushwaha's curriculum.  
-Solving 2-3 problems daily. Every solution committed here.
+**Java DSA Journey**
+Learning from scratch via Kunal Kushwaha's curriculum.
+42+ problems solved. Every solution committed here.
 
 ---
 
-## DSA Progress Log
+## DSA Progress
 
-| Day | Topics | What I solved |
-|-----|--------|---------------|
-| Day 1 | Java basics, variables, program structure | HelloWorld, basic patterns |
-| Day 2 | Arrays, loops, conditions | LargestInArray, Triangle pattern |
-| Day 3+ | ongoing... | |
+| Source | Solved |
+|--------|--------|
+| Kunal Bootcamp | 40 |
+| LeetCode | 2 |
+| **Total** | **42** |
 
-**Started:** March 2026  
-**Problems solved:** _(update this number daily)_  
-**Current topic:** Arrays & Strings  
-**Daily target:** 2-3 problems  
+**Started:** March 2026
+**Daily target:** 2-3 problems
+**Current topic:** Strings → Trees
 
 ---
 
@@ -40,16 +41,16 @@ Solving 2-3 problems daily. Every solution committed here.
   - [x] Syntax, variables, data types
   - [x] Arrays & loops
   - [x] Pattern programming
-  - [ ] Strings
+  - [x] Strings
   - [ ] OOP
 
 - [ ] **Phase 2 — Core DSA**
-  - [ ] Recursion & Backtracking
-  - [ ] Sorting algorithms
-  - [ ] Linked Lists
-  - [ ] Stacks & Queues
-  - [ ] Binary Search
-
+  - [x] Recursion & Backtracking
+  - [x] Sorting algorithms
+  - [x] Linked Lists
+  - [x] Stacks & Queues
+  - [x] Binary Search
+  
 - [ ] **Phase 3 — Advanced DSA**
   - [ ] Trees & Heaps
   - [ ] Graphs
@@ -80,15 +81,24 @@ Solving 2-3 problems daily. Every solution committed here.
 
 ---
 
-## The plan
+## Projects
 
-Mumbai → Estonia (TalTech, CS) → Europe  
-Building in public the whole way.
+| Project | Stack | Status |
+|---------|-------|--------|
+| [MaalSaathi](https://github.com/rahulyadavhub/MaalSaathi) | Node.js, Supabase, Claude API | 🟢 Live |
+| [Java DSA Journey](https://github.com/rahulyadavhub/java-dsa-journey-) | Java | 🔄 Active |
+
+---
+
+## The Plan
+
+Mumbai → Germany IT Ausbildung 2027 → Online CS Degree → 
+Master's AI/ML → Big Tech
 
 ---
 
 ## Find me
 
-[@rxldev](https://instagram.com/rxldev) ·
+[Instagram @nickdebug](https://instagram.com/nickdebug) ·
 [LinkedIn](https://linkedin.com/in/rahulyadav-profile) ·
 [LeetCode](https://leetcode.com/u/rahulyadavhub)
