@@ -1,115 +1,169 @@
-# Rahul Yadav  👋
+# Rahul Yadav 👋
 
-Self-taught developer from Mumbai.
-Learning Java + DSA, building real products, heading to
-Germany for IT Ausbildung 2027.
-Documenting everything → [@rahuacc](https://instagram.com/rahuacc)
+Self-taught developer from Mumbai, India.
+
+Currently focused on building AI-powered software, learning Java + DSA, and documenting my journey publicly.
+
+Building products, shipping code, solving problems, and learning in public every day.
 
 ---
 
-## What I'm building
+## 🚀 What I'm Building
 
-**MaalSaathi** 🚛
-WhatsApp-first fleet management bot for Indian truck owners.
-Stack: Node.js · Supabase · Railway · AiSensy BSP · Claude API
-Status: 🟢 LIVE — 2 active users in production.
+### MaalSaathi 🚛
 
-**AutoX** 🤖
-Fully local autonomous AI engineering platform.
-Stack: Python · Flask · Ollama · ChromaDB · SQLite
-Status: 🔄 Active Development — 16 tasks run, 60% success rate.
+AI-powered WhatsApp fleet management assistant for Indian truck owners and drivers.
 
-**Kirana Supplier CRM**
-Supplier & payment management for small retailers.
-Stack: Python · Flask · SQLite · Vanilla JS
+Tech Stack
+- Node.js
+- Express.js
+- Supabase
+- Claude API
+- AiSensy BSP
+- Railway / Render
+
+Features
+- Trip management
+- Expense tracking
+- Profit & Loss calculations
+- Natural language expense parsing
+- WhatsApp-first workflow
+- AI-powered conversation handling
+
+Status: 🟢 Live Production Build
+
+---
+
+### AutoX 🤖
+
+Autonomous AI engineering platform designed to execute development workflows locally.
+
+Tech Stack
+- Python
+- Flask
+- Ollama
+- ChromaDB
+- SQLite
+
+Status: 🔄 Active Development
+
+---
+
+### Kirana Supplier CRM 📦
+
+Supplier and payment management system for small retailers.
+
+Tech Stack
+- Python
+- Flask
+- SQLite
+- Vanilla JavaScript
+
 Status: ✅ Demo Complete
 
-**Java DSA Journey**
-Learning Java + DSA from scratch — Kunal Kushwaha curriculum.
-42+ problems solved. Every solution committed.
+---
+
+### Java DSA Journey ☕
+
+Learning Data Structures & Algorithms from scratch using the Kunal Kushwaha curriculum.
+
+Current Focus
+- Java Foundations
+- Object-Oriented Programming
+- Data Structures
+- Problem Solving
+- System Thinking
 
 ---
 
-## DSA Progress
+## 📚 Learning Roadmap
 
-| Source | Solved |
-|--------|--------|
-| Kunal Bootcamp | 40 |
-| LeetCode | 2 |
-| **Total** | **42** |
+### Phase 1 — Java Foundations
+- [x] Syntax & Variables
+- [x] Arrays & Loops
+- [x] Pattern Programming
+- [x] Strings
+- [ ] Object-Oriented Programming
 
-**Started:** March 2026
-**Daily target:** 2-3 problems
-**Current topic:** Strings → Trees
+### Phase 2 — Core DSA
+- [x] Recursion & Backtracking
+- [x] Sorting Algorithms
+- [x] Linked Lists
+- [x] Stacks & Queues
+- [x] Binary Search
+- [ ] Trees
+- [ ] Heaps
 
----
+### Phase 3 — Advanced DSA
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Greedy Algorithms
 
-## Roadmap
-
-- [x] **Phase 1 — Java Foundations**
-  - [x] Syntax, variables, data types
-  - [x] Arrays & loops
-  - [x] Pattern programming
-  - [x] Strings
-  - [ ] OOP
-
-- [ ] **Phase 2 — Core DSA**
-  - [x] Recursion & Backtracking
-  - [x] Sorting algorithms
-  - [x] Linked Lists
-  - [x] Stacks & Queues
-  - [x] Binary Search
-
-- [ ] **Phase 3 — Advanced DSA**
-  - [ ] Trees & Heaps
-  - [ ] Graphs
-  - [ ] Dynamic Programming
-
-- [ ] **Phase 4 — Interview Prep**
-  - [ ] NeetCode 150
-  - [ ] System Design basics
-  - [ ] Mock interviews
+### Phase 4 — Interview Preparation
+- [ ] NeetCode 150
+- [ ] System Design Fundamentals
+- [ ] Mock Interviews
 
 ---
 
-## Projects
+## 🛠 Projects
 
 | Project | Stack | Status |
-|---------|-------|--------|
-| [MaalSaathi](https://github.com/rahulyadavhub/MaalSaathi) | Node.js, Claude API | 🟢 Live |
-| [AutoX](https://github.com/rahulyadavhub/AutoX) | Python, Ollama | 🔄 Active |
-| [Kirana CRM](https://github.com/rahulyadavhub/kirana-supplier-crm-demo) | Python, Flask | ✅ Demo |
-| [Java DSA](https://github.com/rahulyadavhub/java-dsa-journey-) | Java | 🔄 Active |
+|----------|----------|----------|
+| MaalSaathi | Node.js, Claude API | 🟢 Live |
+| AutoX | Python, Ollama | 🔄 Active |
+| Kirana Supplier CRM | Python, Flask | ✅ Demo |
+| Java DSA Journey | Java | 🔄 Active |
 
 ---
 
-## How I approach every problem
+## 💡 Engineering Philosophy
 
-```java
-/*
- * Problem: [Name]
- * Source: [LeetCode / Kunal Bootcamp]
- * Difficulty: [Easy / Medium / Hard]
- *
- * Approach:
- * - [Logic in plain English, 1-2 lines]
- *
- * Time Complexity: O(?)
- * Space Complexity: O(?)
- */
-```
+> Build.
+> Ship.
+> Learn.
+> Repeat.
 
----
+For every problem:
 
-## The Plan
-
-Mumbai → Germany IT Ausbildung 2027 →
-Online CS Degree → Master's AI/ML → Big Tech
+- Understand the system
+- Simplify the solution
+- Automate repetitive work
+- Measure results
+- Improve continuously
 
 ---
 
-## Find me
+## 🎯 Long-Term Goal
 
-[Instagram @rahuacc](https://instagram.com/rahuacc) ·
-[LinkedIn](https://linkedin.com/in/rahulyadav-profile) ·
-[LeetCode](https://leetcode.com/u/rahulyadavhub)
+Mumbai 🇮🇳
+
+↓
+
+Germany IT Ausbildung 🇩🇪
+
+↓
+
+Computer Science Degree
+
+↓
+
+Master's in AI / ML
+
+↓
+
+Building world-class AI products
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/rahulyadav-profile
+- LeetCode: https://leetcode.com/u/rahulyadavhub
+- Instagram: https://instagram.com/rahuacc
+
+---
+
+### Current Mission
+
+Building software that solves real-world business problems while becoming a world-class software engineer
