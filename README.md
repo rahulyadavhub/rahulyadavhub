@@ -1,115 +1,44 @@
-# Rahul Yadav  👋
+# Hey, I'm Rahul 👋
 
-Self-taught developer from Mumbai.
-Learning Java + DSA, building real products, heading to
-Germany for IT Ausbildung 2027.
-Documenting everything → [@rahuacc](https://instagram.com/rahuacc)
+Self-taught developer from Mumbai 🇮🇳  
+Building real products. Shipping real code. Learning in public.
 
 ---
 
-## What I'm building
+## 🚛 What I'm Building
 
-**MaalSaathi** 🚛
-WhatsApp-first fleet management bot for Indian truck owners.
-Stack: Node.js · Supabase · Railway · AiSensy BSP · Claude API
-Status: 🟢 LIVE — 2 active users in production.
-
-**AutoX** 🤖
-Fully local autonomous AI engineering platform.
-Stack: Python · Flask · Ollama · ChromaDB · SQLite
-Status: 🔄 Active Development — 16 tasks run, 60% success rate.
-
-**Kirana Supplier CRM**
-Supplier & payment management for small retailers.
-Stack: Python · Flask · SQLite · Vanilla JS
-Status: ✅ Demo Complete
-
-**Java DSA Journey**
-Learning Java + DSA from scratch — Kunal Kushwaha curriculum.
-42+ problems solved. Every solution committed.
+**MaalSaathi** — WhatsApp AI assistant for Indian truck owners  
+`Node.js` `MongoDB` `OpenAI` `WhatsApp Cloud API` `Render`  
+> Trip tracking, expense logging, P&L reports — in Hindi, on WhatsApp  
+> 🟢 Live in production
 
 ---
 
-## DSA Progress
+## ☕ Currently Learning
 
-| Source | Solved |
-|--------|--------|
-| Kunal Bootcamp | 40 |
-| LeetCode | 2 |
-| **Total** | **42** |
-
-**Started:** March 2026
-**Daily target:** 2-3 problems
-**Current topic:** Strings → Trees
+**Java + DSA** via Kunal Kushwaha curriculum  
+Arrays → OOP → Recursion → Trees → Graphs
 
 ---
 
-## Roadmap
+## 🎯 The Plan
 
-- [x] **Phase 1 — Java Foundations**
-  - [x] Syntax, variables, data types
-  - [x] Arrays & loops
-  - [x] Pattern programming
-  - [x] Strings
-  - [ ] OOP
-
-- [ ] **Phase 2 — Core DSA**
-  - [x] Recursion & Backtracking
-  - [x] Sorting algorithms
-  - [x] Linked Lists
-  - [x] Stacks & Queues
-  - [x] Binary Search
-
-- [ ] **Phase 3 — Advanced DSA**
-  - [ ] Trees & Heaps
-  - [ ] Graphs
-  - [ ] Dynamic Programming
-
-- [ ] **Phase 4 — Interview Prep**
-  - [ ] NeetCode 150
-  - [ ] System Design basics
-  - [ ] Mock interviews
-
----
-
-## Projects
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| [MaalSaathi](https://github.com/rahulyadavhub/MaalSaathi) | Node.js, Claude API | 🟢 Live |
-| [AutoX](https://github.com/rahulyadavhub/AutoX) | Python, Ollama | 🔄 Active |
-| [Kirana CRM](https://github.com/rahulyadavhub/kirana-supplier-crm-demo) | Python, Flask | ✅ Demo |
-| [Java DSA](https://github.com/rahulyadavhub/java-dsa-journey-) | Java | 🔄 Active |
-
----
-
-## How I approach every problem
-
-```java
-/*
- * Problem: [Name]
- * Source: [LeetCode / Kunal Bootcamp]
- * Difficulty: [Easy / Medium / Hard]
- *
- * Approach:
- * - [Logic in plain English, 1-2 lines]
- *
- * Time Complexity: O(?)
- * Space Complexity: O(?)
- */
+```
+Mumbai 🇮🇳  →  Estonia CS Degree 🇪🇪  →  Europe Tech 🌍
 ```
 
----
-
-## The Plan
-
-Mumbai → Germany IT Ausbildung 2027 →
-Online CS Degree → Master's AI/ML → Big Tech
+IELTS ✅ | NIOS Oct 2026 | TalTech / Tartu 2027
 
 ---
 
-## Find me
+## 🛠 Stack
 
-[Instagram @rahuacc](https://instagram.com/rahuacc) ·
-[LinkedIn](https://linkedin.com/in/rahulyadav-profile) ·
-[LeetCode](https://leetcode.com/u/rahulyadavhub)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
+---
+
+> *Build. Ship. Learn. Repeat.*
