@@ -8,26 +8,15 @@ Building real products. Shipping real code. Learning in public.
 ## 🚛 What I'm Building
 
 **MaalSaathi** — WhatsApp AI assistant for Indian truck owners  
-`Node.js` `MongoDB` `OpenAI` `WhatsApp Cloud API` `Render`  
-> Trip tracking, expense logging, P&L reports — in Hindi, on WhatsApp  
+`Node.js` `MongoDB` `OpenAI` `WhatsApp Cloud API`  
+> Trip tracking · Expense logging · P&L reports — in Hindi, on WhatsApp  
 > 🟢 Live in production
 
 ---
 
 ## ☕ Currently Learning
 
-**Java + DSA** via Kunal Kushwaha curriculum  
-Arrays → OOP → Recursion → Trees → Graphs
-
----
-
-## 🎯 The Plan
-
-```
-Mumbai 🇮🇳  →  Estonia CS Degree 🇪🇪  →  Europe Tech 🌍
-```
-
-IELTS ✅ | NIOS Oct 2026 | TalTech / Tartu 2027
+**Java + DSA** via Kunal Kushwaha curriculum
 
 ---
 
