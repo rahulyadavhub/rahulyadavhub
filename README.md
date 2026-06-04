@@ -17,7 +17,6 @@ Building real products. Shipping real code. Learning in public.
 > 🔨 Under active development
 
 **ReelBreak** — Stop doom scrolling. Reclaim your mind.
-`Kotlin` `Android` `Accessibility API` `Node.js` `WhatsApp Cloud API`
 > Real-time scroll tracking · Hard block · WhatsApp daily digest — India-first
 > 🔨 Under active development · reelbreak.in
 
